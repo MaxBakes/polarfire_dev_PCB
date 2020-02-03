@@ -1,0 +1,40 @@
+PCAD Importer Log
+Project : ASP-134486-01.LibPkg
+
+Section : C:\Users\sambagley\Documents\Altium_Project\PCB_Project\ASP-134486-01.lia
+    Section : PCB Library - ASP-134486-01.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ASP-134486-01_SECTION2 On Line 50950
+            Warning - 1 : Skipping Token ASP-134486-01_SECTION3 On Line 51686
+            Warning - 1 : Skipping Token ASP-134486-01_SECTION4 On Line 52422
+            Warning - 1 : Skipping Token ASP-134486-01_SECTION5 On Line 53158
+            Warning - 1 : Skipping Token ASP-134486-01_SECTION1 On Line 53894
+            Warning - 1 : Skipping Token attachedSymbol On Line 55041
+            Warning - 1 : Skipping Token attachedSymbol On Line 55042
+            Warning - 1 : Skipping Token attachedSymbol On Line 55043
+            Warning - 1 : Skipping Token attachedSymbol On Line 55044
+            Warning - 1 : Skipping Token attachedSymbol On Line 55045
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*SAMTEC_ASP-134486-01][Primary] associated with PCAD Component [ASP-134486-01] has been renamed to PCB FootPrint [*SAMTEC_ASP-134486-01_ASP-134486-01(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - ASP-134486-01.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 499
+            Warning - 1 : Skipping Token layerContents On Line 512
+            Warning - 1 : Skipping Token layerContents On Line 525
+            Warning - 1 : Skipping Token layerContents On Line 536
+            Warning - 1 : Skipping Token layerContents On Line 50938
+        EndSection
+
+        Section : Generating SCH Library - ASP-134486-01.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*SAMTEC_ASP-134486-01][Primary] associated with PCAD Component [ASP-134486-01] has been renamed to PCB FootPrint [*SAMTEC_ASP-134486-01_ASP-134486-01(Primary)].
+        EndSection
+    EndSection
+EndSection
